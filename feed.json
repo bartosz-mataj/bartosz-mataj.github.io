@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Ekspert ds. Finansowych Bartosz Mataj - Warszawa",
     "description": "",
-    "home_page_url": "https://bartoszmataj.pl",
-    "feed_url": "https://bartoszmataj.pl/feed.json",
+    "home_page_url": "http://bartoszmataj.pl",
+    "feed_url": "http://bartoszmataj.pl/feed.json",
     "user_comment": "",
-    "icon": "https://bartoszmataj.pl/media/website/logo-2-white.png",
+    "icon": "http://bartoszmataj.pl/media/website/logo-2-white.png",
     "author": {
         "name": "Bartosz Mataj"
     },
     "items": [
         {
-            "id": "https://bartoszmataj.pl/finansowanie-prywatne/",
-            "url": "https://bartoszmataj.pl/finansowanie-prywatne/",
+            "id": "http://bartoszmataj.pl/finansowanie-prywatne/",
+            "url": "http://bartoszmataj.pl/finansowanie-prywatne/",
             "title": "Finansowanie prywatne",
             "summary": "Kredyt prywatny Środki na wydatki bieżące? Środki na dowolny cel? Finansowanie dla osób prywatnych z oferty czołowych banków w Polsce, dostępne dla Ciebie w jednym momencie. Dostosowanie najlepszej oferty kredytu konsumenckiego. Kredyt z negatywnym BIK / BIG / KRD Uzsykanie środków pieniężnych z negatywną oceną&hellip;",
             "content_html": "<p><strong>Kredyt prywatny</strong></p>\n<p>Środki na wydatki bieżące? Środki na dowolny cel? <br><br>Finansowanie dla osób prywatnych z oferty czołowych banków w Polsce, dostępne dla Ciebie w jednym momencie. Dostosowanie najlepszej oferty kredytu konsumenckiego.</p>\n<p><strong>Kredyt z negatywnym BIK / BIG / KRD</strong></p>\n<p>Uzsykanie środków pieniężnych z negatywną oceną baz zewnętrznych. <br>Przygotowanie produktu dla obecnej sytuacji finansowej.</p>",
-            "image": "https://bartoszmataj.pl/media/posts/7/photo-1529400971008-f566de0e6dfc.jpeg",
+            "image": "http://bartoszmataj.pl/media/posts/7/photo-1529400971008-f566de0e6dfc.jpeg",
             "author": {
                 "name": "Bartosz Mataj"
             },
@@ -26,12 +26,12 @@
             "date_modified": "2019-12-13T13:49:55+01:00"
         },
         {
-            "id": "https://bartoszmataj.pl/finansowanie-firmowe/",
-            "url": "https://bartoszmataj.pl/finansowanie-firmowe/",
+            "id": "http://bartoszmataj.pl/finansowanie-firmowe/",
+            "url": "http://bartoszmataj.pl/finansowanie-firmowe/",
             "title": "Finansowanie Firmowe",
             "summary": "Finansowanie Firmowe Inwestycja w firmę, finansowanie wydatków bieżących, spłata zobowiązań firmowych oraz wszelkie sytuacje związane z biznesem Finansowanie bez weryfikacji BIK / BIG / KRD Finansowanie firmowe dla przedsiębiorstw z zadłużeniem w bazach zewnętrznych. Finansowanie Start-up Dostępne już od pierwszego dnia prowadzenia działalności gospodarczej. Elastyczne&hellip;",
             "content_html": "<p><strong>Finansowanie Firmowe</strong><br> <br> Inwestycja w firmę, finansowanie wydatków bieżących, spłata zobowiązań firmowych oraz wszelkie sytuacje związane z biznesem<br> <br> <strong>Finansowanie bez weryfikacji BIK / BIG / KRD</strong> <br> <br> Finansowanie firmowe dla przedsiębiorstw z zadłużeniem w bazach zewnętrznych. <br> <br> <strong>Finansowanie Start-up</strong></p>\n<p>Dostępne już od pierwszego dnia prowadzenia działalności gospodarczej.</p>\n<p>Elastyczne podejście do kwoty – zależna od celu kredytowania, przedmiotu zabezpieczenia i źródła spłaty.<br> <br> <strong>Finansowanie dla Rolników</strong><br> <br> Proces finansowania skupiony na osobach prowadzących gospodarstwo rolne, które posiada od 10ha ziemi rolnej. <br> <br> <strong>Finansowanie dla wolnych zawodów</strong><br> <br> Uproszczone procedury finansowania.</p>\n<p>Finansowanie dla: Lekarz, Dentysta, Weterynarz, Biegły rewident, Księgowy, Doradca podatkowy, radca prawny, Adwokat, Notariusz, Komornik, Architekt<br> <br><br></p>",
-            "image": "https://bartoszmataj.pl/media/posts/6/photo-1489370603040-dc6c28a1d37a.jpeg",
+            "image": "http://bartoszmataj.pl/media/posts/6/photo-1489370603040-dc6c28a1d37a.jpeg",
             "author": {
                 "name": "Bartosz Mataj"
             },
@@ -41,12 +41,12 @@
             "date_modified": "2019-12-13T13:41:54+01:00"
         },
         {
-            "id": "https://bartoszmataj.pl/korzysci/",
-            "url": "https://bartoszmataj.pl/korzysci/",
+            "id": "http://bartoszmataj.pl/korzysci/",
+            "url": "http://bartoszmataj.pl/korzysci/",
             "title": "Korzyści",
             "summary": "Dlaczego warto podjąć ze mną współpracę? Wygoda – w trakcie pierwszego spotkania ocenię Twoje możliwości kredytowe, po czym ustalimy wstępne założenia Minimum formalności – w większości procesów wystarczy jeden wniosek, który uzupełnia klient. Resztą zajmę się osobiście Brak dodatkowych kosztów – nie ponosisz żadnych opłat za moją pracę&hellip;",
             "content_html": "<p><strong>Dlaczego warto podjąć ze mną współpracę?</strong>  </p>\n<p><strong>Wygoda</strong> – w trakcie pierwszego spotkania ocenię Twoje możliwości kredytowe, po czym ustalimy wstępne założenia</p>\n<p><strong>Minimum formalności</strong> – w większości procesów wystarczy jeden wniosek, który uzupełnia klient. Resztą zajmę się osobiście</p>\n<p><strong>Brak dodatkowych kosztów</strong> – nie ponosisz żadnych opłat za moją pracę</p>\n<p><strong>Bezpieczeństwo</strong> – możesz liczyć na moje pełne profesjonalne wsparcie w całym procesie, na każdym jego etapie</p>\n<p><strong>Mobilność</strong> – możliwość spotkania się ze mną w dogodnym dla Klienta miejscu i czasie.</p>",
-            "image": "https://bartoszmataj.pl/media/posts/5/photo-1496902526517-c0f2cb8fdb6a.jpeg",
+            "image": "http://bartoszmataj.pl/media/posts/5/photo-1496902526517-c0f2cb8fdb6a.jpeg",
             "author": {
                 "name": "Bartosz Mataj"
             },
@@ -56,12 +56,12 @@
             "date_modified": "2019-12-11T14:57:02+01:00"
         },
         {
-            "id": "https://bartoszmataj.pl/oferta/",
-            "url": "https://bartoszmataj.pl/oferta/",
+            "id": "http://bartoszmataj.pl/oferta/",
+            "url": "http://bartoszmataj.pl/oferta/",
             "title": "Oferta",
             "summary": "Proces finansowania I - Wstępna rozmowa, zapoznanie z obecną sytuacją, wyszkukanie rozwiązania, wybór oferty II - Zgromadzenie dokumentów III - Otrzymanie propozycji finansowej, podpisanie finansowania, środki przelane na konto",
             "content_html": "<p class=\"align-center\"><strong>Proces finansowania </strong></p>\n<p>I - Wstępna rozmowa, zapoznanie z obecną sytuacją, wyszkukanie rozwiązania, wybór oferty <br><br>II - Zgromadzenie dokumentów <br><br>III - Otrzymanie propozycji finansowej, podpisanie finansowania, środki przelane na konto</p>",
-            "image": "https://bartoszmataj.pl/media/posts/4/photo-1516728043722-b394cb2f689e.jpeg",
+            "image": "http://bartoszmataj.pl/media/posts/4/photo-1516728043722-b394cb2f689e.jpeg",
             "author": {
                 "name": "Bartosz Mataj"
             },
@@ -71,12 +71,12 @@
             "date_modified": "2019-12-13T13:43:06+01:00"
         },
         {
-            "id": "https://bartoszmataj.pl/wspolpraca/",
-            "url": "https://bartoszmataj.pl/wspolpraca/",
+            "id": "http://bartoszmataj.pl/wspolpraca/",
+            "url": "http://bartoszmataj.pl/wspolpraca/",
             "title": "Współpraca",
             "summary": "Jesteś pośrednikiem finansowym? Realizujesz inwestycje mieszkaniowe lub komercyjne? Posiadasz bazę osób, które potrzebują finansowania na biznes? Zapraszam do kontaktu.",
             "content_html": "<p>Jesteś pośrednikiem finansowym? <br> <br> Realizujesz inwestycje mieszkaniowe lub komercyjne?<br> <br> Posiadasz bazę osób, które potrzebują finansowania na biznes?<br> <br> Zapraszam do kontaktu.</p>",
-            "image": "https://bartoszmataj.pl/media/posts/3/andrew-neel-TTPMpLl_2lc-unsplash.jpg",
+            "image": "http://bartoszmataj.pl/media/posts/3/andrew-neel-TTPMpLl_2lc-unsplash.jpg",
             "author": {
                 "name": "Bartosz Mataj"
             },
@@ -86,12 +86,12 @@
             "date_modified": "2019-12-10T11:47:26+01:00"
         },
         {
-            "id": "https://bartoszmataj.pl/kontakt/",
-            "url": "https://bartoszmataj.pl/kontakt/",
+            "id": "http://bartoszmataj.pl/kontakt/",
+            "url": "http://bartoszmataj.pl/kontakt/",
             "title": "Kontakt",
             "summary": "tel: +48 534 145 926 email: finanse@bartoszmataj.pl www: bartoszmataj.pl Skontaktuj się ze mną Twoje imięTwoje NazwiskoNumer telefonuAdres E-MailTreść wiadomościWyślij",
-            "content_html": "<div id=\"contactswrapper\">\n<p>tel: <a href=\"tel:+48534145926\">+48 534 145 926</a></p>\n<p>email: <a href=\"mailto:finanse@bartoszmataj.pl\">finanse@bartoszmataj.pl</a></p>\n<p>www: <a href=\"bartoszmataj.pl\">bartoszmataj.pl</a></p>\n<img src=\"https://bartoszmataj.pl/media/posts/2/logo-2.png\" width=\"350\" height=\"150\"></div>\n<form class=\"form-horizontal\" action=\"https://usebasin.com/f/9eab19238484\" method=\"post\"><fieldset><!-- Form Name --> <legend>Skontaktuj się ze mną</legend> <!-- Text input-->\n<div class=\"form-group\" style=\"width: 100%;\"><label class=\"col-md-4 control-label\" for=\"imie\">Twoje imię</label>\n<div class=\"col-md-12\"><input id=\"imie\" class=\"form-control input-md\" name=\"imie\" type=\"text\" placeholder=\"imię\"></div>\n</div>\n<!-- Text input-->\n<div class=\"form-group\"><label class=\"col-md-4 control-label\" for=\"nazwisko\">Twoje Nazwisko</label>\n<div class=\"col-md-12\"><input id=\"nazwisko\" class=\"form-control input-md\" name=\"nazwisko\" type=\"text\" placeholder=\"nazwisko\"></div>\n</div>\n<!-- Text input-->\n<div class=\"form-group\"><label class=\"col-md-4 control-label\" for=\"phone\">Numer telefonu</label>\n<div class=\"col-md-12\"><input id=\"phone\" class=\"form-control input-md\" name=\"phone\" type=\"text\" placeholder=\"numer telefonu\"></div>\n</div>\n<!-- Text input-->\n<div class=\"form-group\"><label class=\"col-md-4 control-label\" for=\"mail\">Adres E-Mail</label>\n<div class=\"col-md-12\"><input id=\"mail\" class=\"form-control input-md\" name=\"mail\" type=\"text\" placeholder=\"adres e-mail\"></div>\n</div>\n<!-- Textarea -->\n<div class=\"form-group\"><label class=\"col-md-4 control-label\" for=\"wiadomosc\">Treść wiadomości</label>\n<div class=\"col-md-12\"><textarea id=\"wiadomosc\" class=\"form-control\" name=\"wiadomosc\"></textarea></div>\n</div>\n<!-- Button -->\n<div class=\"form-group\"><label class=\"col-md-4 control-label\" for=\"submit\"></label>\n<div class=\"col-md-12\"><button id=\"submit\" class=\"btn btn-primary\" name=\"submit\" type=\"submit\">Wyślij</button></div>\n</div>\n</fieldset></form>",
-            "image": "https://bartoszmataj.pl/media/posts/2/luca-bravo-9l_326FISzk-unsplash.jpg",
+            "content_html": "<div id=\"contactswrapper\">\n<p>tel: <a href=\"tel:+48534145926\">+48 534 145 926</a></p>\n<p>email: <a href=\"mailto:finanse@bartoszmataj.pl\">finanse@bartoszmataj.pl</a></p>\n<p>www: <a href=\"bartoszmataj.pl\">bartoszmataj.pl</a></p>\n<img src=\"http://bartoszmataj.pl/media/posts/2/logo-2.png\" width=\"350\" height=\"150\"></div>\n<form class=\"form-horizontal\" action=\"https://usebasin.com/f/9eab19238484\" method=\"post\"><fieldset><!-- Form Name --> <legend>Skontaktuj się ze mną</legend> <!-- Text input-->\n<div class=\"form-group\" style=\"width: 100%;\"><label class=\"col-md-4 control-label\" for=\"imie\">Twoje imię</label>\n<div class=\"col-md-12\"><input id=\"imie\" class=\"form-control input-md\" name=\"imie\" type=\"text\" placeholder=\"imię\"></div>\n</div>\n<!-- Text input-->\n<div class=\"form-group\"><label class=\"col-md-4 control-label\" for=\"nazwisko\">Twoje Nazwisko</label>\n<div class=\"col-md-12\"><input id=\"nazwisko\" class=\"form-control input-md\" name=\"nazwisko\" type=\"text\" placeholder=\"nazwisko\"></div>\n</div>\n<!-- Text input-->\n<div class=\"form-group\"><label class=\"col-md-4 control-label\" for=\"phone\">Numer telefonu</label>\n<div class=\"col-md-12\"><input id=\"phone\" class=\"form-control input-md\" name=\"phone\" type=\"text\" placeholder=\"numer telefonu\"></div>\n</div>\n<!-- Text input-->\n<div class=\"form-group\"><label class=\"col-md-4 control-label\" for=\"mail\">Adres E-Mail</label>\n<div class=\"col-md-12\"><input id=\"mail\" class=\"form-control input-md\" name=\"mail\" type=\"text\" placeholder=\"adres e-mail\"></div>\n</div>\n<!-- Textarea -->\n<div class=\"form-group\"><label class=\"col-md-4 control-label\" for=\"wiadomosc\">Treść wiadomości</label>\n<div class=\"col-md-12\"><textarea id=\"wiadomosc\" class=\"form-control\" name=\"wiadomosc\"></textarea></div>\n</div>\n<!-- Button -->\n<div class=\"form-group\"><label class=\"col-md-4 control-label\" for=\"submit\"></label>\n<div class=\"col-md-12\"><button id=\"submit\" class=\"btn btn-primary\" name=\"submit\" type=\"submit\">Wyślij</button></div>\n</div>\n</fieldset></form>",
+            "image": "http://bartoszmataj.pl/media/posts/2/luca-bravo-9l_326FISzk-unsplash.jpg",
             "author": {
                 "name": "Bartosz Mataj"
             },
