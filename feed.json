@@ -44,8 +44,8 @@
             "id": "https://bartoszmataj.pl/korzysci/",
             "url": "https://bartoszmataj.pl/korzysci/",
             "title": "Korzyści",
-            "summary": "Dlaczego warto podjąć ze mną współpracę? Wygoda – w trakcie pierwszego spotkania ocenię Twoje możliwości kredytowe, po czym ustalimy wstępne założenia Minimum formalności – w większości procesów wystarczy jeden wniosek, który uzupełnia klient. Resztą zajmę się osobiście Brak dodatkowych kosztów – nie ponosisz żadnych opłat za moją pracę&hellip;",
-            "content_html": "<p><strong>Dlaczego warto podjąć ze mną współpracę?</strong>  </p>\n<p><strong>Wygoda</strong> – w trakcie pierwszego spotkania ocenię Twoje możliwości kredytowe, po czym ustalimy wstępne założenia</p>\n<p><strong>Minimum formalności</strong> – w większości procesów wystarczy jeden wniosek, który uzupełnia klient. Resztą zajmę się osobiście</p>\n<p><strong>Brak dodatkowych kosztów</strong> – nie ponosisz żadnych opłat za moją pracę</p>\n<p><strong>Bezpieczeństwo</strong> – możesz liczyć na moje pełne profesjonalne wsparcie w całym procesie, na każdym jego etapie</p>\n<p><strong>Mobilność</strong> – możliwość spotkania się ze mną w dogodnym dla Klienta miejscu i czasie.</p>",
+            "summary": "Dlaczego warto podjąć ze mną współpracę? Wygoda – w trakcie pierwszego spotkania ocenię Twoje możliwości finansowe, po czym ustalimy wstępne założenia. Minimum formalności – w większości procesów wystarczy jeden wniosek, który uzupełnia klient. Resztą zajmę się osobiście! Brak dodatkowych kosztów – nie pobieram opłat za analizy wniosków. Zaangażowanie – możesz&hellip;",
+            "content_html": "<p><strong>Dlaczego warto podjąć ze mną współpracę?</strong>  </p>\n<p><strong>Wygoda</strong> – w trakcie pierwszego spotkania ocenię Twoje możliwości finansowe, po czym ustalimy wstępne założenia.</p>\n<p><strong>Minimum formalności</strong> – w większości procesów wystarczy jeden wniosek, który uzupełnia klient. Resztą zajmę się osobiście!</p>\n<p><strong>Brak dodatkowych kosztów</strong> – nie pobieram opłat za analizy wniosków.</p>\n<p><strong>Zaangażowanie</strong> – możesz liczyć na moje pełne profesjonalne wsparcie w całym procesie, na każdym jego etapie.</p>\n<p><strong>Mobilność</strong> – możliwość spotkania się ze mną w dogodnym dla Klienta miejscu i czasie.</p>",
             "image": "https://bartoszmataj.pl/media/posts/5/photo-1496902526517-c0f2cb8fdb6a.jpeg",
             "author": {
                 "name": "Bartosz Mataj"
@@ -53,14 +53,14 @@
             "tags": [
             ],
             "date_published": "2019-12-11T12:32:50+01:00",
-            "date_modified": "2019-12-11T14:57:02+01:00"
+            "date_modified": "2020-02-21T16:15:42+01:00"
         },
         {
             "id": "https://bartoszmataj.pl/oferta/",
             "url": "https://bartoszmataj.pl/oferta/",
             "title": "Oferta",
-            "summary": "Proces finansowania I - Wstępna rozmowa, zapoznanie z obecną sytuacją, wyszkukanie rozwiązania, wybór oferty II - Zgromadzenie dokumentów III - Otrzymanie propozycji finansowej, podpisanie finansowania, środki przelane na konto",
-            "content_html": "<p class=\"align-center\"><strong>Proces finansowania </strong></p>\n<p>I - Wstępna rozmowa, zapoznanie z obecną sytuacją, wyszkukanie rozwiązania, wybór oferty <br><br>II - Zgromadzenie dokumentów <br><br>III - Otrzymanie propozycji finansowej, podpisanie finansowania, środki przelane na konto</p>",
+            "summary": "Proces finansowania I - Wstępna rozmowa, analiza sytuacji, wyszukanie rozwiązania II - Kompletowanie dokumentów, wybór oferty III - Otrzymanie propozycji finansowej, podpisanie finansowania, środki przelane na konto",
+            "content_html": "<p class=\"align-center\"><strong>Proces finansowania </strong></p>\n<p><strong>I</strong> - Wstępna rozmowa, analiza sytuacji, wyszukanie rozwiązania <br><br><strong>II</strong> - Kompletowanie dokumentów, wybór oferty<br><br><strong>III</strong> - Otrzymanie propozycji finansowej, podpisanie finansowania, środki przelane na konto</p>",
             "image": "https://bartoszmataj.pl/media/posts/4/photo-1516728043722-b394cb2f689e.jpeg",
             "author": {
                 "name": "Bartosz Mataj"
@@ -68,7 +68,7 @@
             "tags": [
             ],
             "date_published": "2019-12-11T12:22:41+01:00",
-            "date_modified": "2019-12-13T13:43:06+01:00"
+            "date_modified": "2020-02-21T16:19:28+01:00"
         },
         {
             "id": "https://bartoszmataj.pl/wspolpraca/",
